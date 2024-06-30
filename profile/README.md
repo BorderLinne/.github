@@ -1,11 +1,3 @@
-Claro, aqui está a descrição formatada usando diferentes níveis de cabeçalhos e outros estilos para o README do GitHub:
-
----
-
-# BorderLinne
-
-## Sobre Nós
-
 A **BorderLinne** é uma empresa inovadora e dinâmica especializada no desenvolvimento de software, prestação de serviços de TI e oferta de cursos de formação na área de tecnologia. Com uma equipa de profissionais altamente qualificados e uma paixão pela excelência, estamos comprometidos em fornecer soluções tecnológicas de ponta que atendam às necessidades específicas dos nossos clientes.
 
 Nosso objetivo principal é **levar Angola para uma era digital**, transformando empresas e capacitando indivíduos com as mais recentes tecnologias e conhecimentos em TI.
